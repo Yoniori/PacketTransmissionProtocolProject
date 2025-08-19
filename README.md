@@ -1,6 +1,4 @@
-Certainly! Here’s the README.md for your Packet Transmission Protocol Project, written in English:
 
-⸻
 
 📦 Packet Transmission Protocol
 
@@ -53,6 +51,3 @@ for packet in packets:
 	•	Create a simple command-line or graphical interface for running simulations.
 	•	Export transmission logs to file.
 
-⸻
-
-Let me know if you’d like me to save this as an actual README.md file for you.
